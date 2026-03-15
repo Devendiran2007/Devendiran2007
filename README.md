@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,fastapi,postgres,sqlite,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,python,fastapi,postgres,sqlite,github,vscode,C#" />
 
 </p>
 ## 🧠 About Me
