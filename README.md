@@ -37,11 +37,4 @@ Here are some ideas to get you started:
 * 🏗️ Building real projects instead of tutorials
 
 
-## 📊 GitHub Stats
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevendiranK&layout=compact&theme=tokyonight" />
-</p>
 
