@@ -46,8 +46,8 @@ Right now I'm going deeper into system design and distributed systems, and exper
 ### GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devendiran2007&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendiran2007&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devendiran2007&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendiran2007&layout=compact" />
 </p>
 
 > These render automatically once you swap in your real GitHub username — no setup needed beyond that.
