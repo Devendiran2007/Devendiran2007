@@ -1,93 +1,63 @@
-<div align="center">
+<h1 align="center">Hey, I'm Devendiran 👋</h1>
+<h3 align="center">Backend-leaning full-stack dev — ASP.NET Core, C#, React</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0e75b6&height=200&section=header&text=Devendiran%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20IT%20Student%20%7C%20Learning%20Cloud&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">
+  <a href="mailto:devendirank61@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/devendiran2007">LinkedIn</a> ·
+  <a href="https://github.com/devendiran2007">GitHub</a>
+</p>
 
-<a href="https://www.linkedin.com/in/devendirank2007/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/_.d3vendiran_.15/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/DevendiranKathir/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.codechef.com/users/devendiran1966">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
+---
 
-</div>
+### About
 
-<br/>
+I'm a B.Tech IT student at Chennai Institute of Technology. Most of my time goes into backend work — designing APIs, thinking through database schemas, and figuring out why something that "should just work" doesn't. I build the frontend too when a project needs one, mostly in React.
 
-## About Me
+I got into this because I like the moment a system that used to be a mess of manual steps just... runs by itself. That's the itch behind most of what I build.
 
-- 🎓 IT Student, based in Chennai
-- 🔧 Backend-focused developer
-- 📈 Currently learning **C#, .NET, and FastAPI**
-- 🏗️ I build real projects instead of tutorials
-- 🎯 Focused on strengthening backend fundamentals before branching into cloud
+Right now I'm going deeper into system design and distributed systems, and experimenting with where AI actually earns its place in a backend (as opposed to being bolted on because it's trendy).
 
-<br/>
+**A few things about me:**
+- Finalist, Finspark'26
+- Comfortable across the stack: SQL Server / PostgreSQL → EF Core → ASP.NET Core → React
+- I'd rather ship something small and working than something big and half-finished
 
-## Tech Stack
+---
 
-<div align="center">
+### Tech I use regularly
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,csharp,dotnet,fastapi,git,github,vscode,mysql,postgres" />
+**Backend:** C#, ASP.NET Core, Entity Framework Core
+**Frontend:** React, JavaScript, HTML/CSS
+**Databases:** SQL Server, PostgreSQL, SQLite
+**AI/Data:** Python, LangChain
+**Tools:** Git, GitHub, Azure, Vercel
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
 
-<br/>
+---
 
-## Featured Projects
+### GitHub stats
 
-<div align="center">
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devendiran2007&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendiran2007&layout=compact" />
+</p>
 
-<a href="https://github.com/Devendiran2007/Smart-Habbit-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devendiran2007&repo=Smart-Habbit-Tracker&theme=tokyonight" />
-</a>
-<a href="https://github.com/Devendiran2007/SnapChatClone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devendiran2007&repo=SnapChatClone&theme=tokyonight" />
-</a>
-<a href="https://github.com/Devendiran2007/Campus-Issue-Tracker-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devendiran2007&repo=Campus-Issue-Tracker-Project&theme=tokyonight" />
-</a>
-<a href="https://github.com/Devendiran2007/RoadSense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devendiran2007&repo=RoadSense&theme=tokyonight" />
-</a>
+> These render automatically once you swap in your real GitHub username — no setup needed beyond that.
 
-</div>
+---
 
-| Project | Description | Stack |
-|---|---|---|
-| **Smart-Habbit-Tracker** | Habit tracking app built as a learning project | JavaScript |
-| **SnapChatClone** | Backend-heavy clone project to practice ASP.NET | C# / .NET |
-| **Campus-Issue-Tracker-Project** | Lets students report issues for admins to review | Python |
-| **RoadSense** | — | — |
-| **Assignment-3** | E-commerce site | JavaScript |
-| **Login-SignIn-Form** | First backend project — auth basics | HTML |
+### What I'm working on
 
-<br/>
+```
+System Design  →  Distributed Systems  →  AI-in-backend  →  Production-grade engineering
+```
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Devendiran2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendiran2007&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devendiran2007&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0e75b6&height=100&section=footer" width="100%"/>
-
-</div>
+Open to backend / full-stack roles and interesting collaborations. Reach out if something above overlaps with what you're building.
