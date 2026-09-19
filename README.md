@@ -40,18 +40,6 @@ Right now I'm going deeper into system design and distributed systems, and exper
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
-
----
-
-### GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devendiran2007&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendiran2007&layout=compact" />
-</p>
-
-> These render automatically once you swap in your real GitHub username — no setup needed beyond that.
-
 ---
 
 ### What I'm working on
